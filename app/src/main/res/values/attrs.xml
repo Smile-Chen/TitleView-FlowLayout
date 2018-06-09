@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyTitleView">
+        <attr name="btn_left" format="string"/>
+        <attr name="btn_center" format="string"/>
+        <attr name="btn_right" format="string"/>
+        <attr name="btn_size" format="dimension"/>
+        
+    </declare-styleable>
+</resources>
